@@ -6,21 +6,23 @@ I am a data analytics leader with 14+ of experience delivering insight driven so
 
 ## Featured Projects
 
-### Health Outcomes Analytics Dashboard
-*Tools: PowerBI, SQL*
+### [Health Outcomes Analytics Dashboard](https://github.com/shazadahmed10/More-Projects/tree/main/Healthcare%20Analytics%20Project)
+*Tools:* PowerBI, SQL
 
-Description: A healthcare analytics project that analyzed one year of prescription, provider, and member data for a mid-size firm to understand drug spend, utilization, and prescribing patterns. Using SQL and Power BI, the project identified key cost drivers and delivered recommendations to improve care management, optimize plan design, and reduce overall prescription costs. 
+*Description:* A healthcare analytics project that analyzed one year of prescription, provider, and member data for a mid-size firm to understand drug spend, utilization, and prescribing patterns. Using SQL and Power BI, the project identified key cost drivers and delivered recommendations to improve care management, optimize plan design, and reduce overall prescription costs.  
 
-([link to project repo](https://github.com/shazadahmed10/More-Projects/tree/main/Healthcare%20Analytics%20Project))
 
-### Startup X Analytics
-*Tools: SQL, Python, PowerBI*
+### [Startup X Analytics](https://github.com/shazadahmed10/More-Projects/tree/main/Startup%20Analytics)
+*Tools:* SQL, Python, PowerBI
 
-Description: A project that analyzed a startup's user growth, revenue, churn, and engagement using SQL and Power BI, providing insights and recommendations to optimize acquisition channels, reduce churn, and improve product feature engagement.
+*Description:* A project that analyzed a startup's user growth, revenue, churn, and engagement using SQL and Power BI, providing insights and recommendations to optimize acquisition channels, reduce churn, and improve product feature engagement.  
 
-([link to project repo](https://github.com/shazadahmed10/More-Projects/tree/main/Startup%20Analytics))
+### [Sample Scripts](https://github.com/shazadahmed10/Script-code-portfolio)
 
-### Sample Scripts
+Sample scripts in SAS, R, SQL & Python
 
-Sample scripts in SAS, R, SQL & Python ([link to repo](https://github.com/shazadahmed10/Script-code-portfolio))
+### Skills
+***Data Tools:*** SQL, Python, R, PowerBI, Snowflake, BigQuery, more  
+***Data Engineering:*** ETL pipelines, data quality workflows  
+***Visualization & Reporting*** Executive dashboards, reports, executive presentations   
 
