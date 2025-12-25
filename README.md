@@ -20,7 +20,7 @@ Description: A project that analyzed a startup's user growth, revenue, churn, an
 
 ([link to project repo](https://github.com/shazadahmed10/More-Projects/tree/main/Startup%20Analytics))
 
-## Sample Scripts
+### Sample Scripts
 
 Sample scripts in SAS, R, SQL & Python ([link to repo](https://github.com/shazadahmed10/Script-code-portfolio))
 
