@@ -1,5 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"  # try "air", "dark", "contrast" later
+theme: minima
 
 title: "Shazad Ahmed"
 description: "Data Analytics & Business Intelligence Leader | Epidemiologist"
@@ -8,7 +7,3 @@ author:
   name: "Shazad Ahmed"
   bio: "Data Analytics & Business Intelligence Leader"
   location: "United States"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
