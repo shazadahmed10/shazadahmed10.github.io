@@ -13,5 +13,7 @@ I am a data analytics leader with 14+ of experience delivering insight driven so
 
 ### Health Outcomes Analytics Dashboard
 *Tools: PowerBI, SQL*
-Description:
-[View Project] (link to repo)
+
+Description: A healthcare analytics project that analyzed one year of prescription, provider, and member data for a mid-size firm to understand drug spend, utilization, and prescribing patterns. Using SQL and Power BI, the project identified key cost drivers and delivered recommendations to improve care management, optimize plan design, and reduce overall prescription costs. 
+
+([link to repo](https://github.com/shazadahmed10/More-Projects/tree/main/Healthcare%20Analytics%20Project))
