@@ -1,7 +1,7 @@
 
 
 
-I am a data analytics leader with 14+ of experience delivering insight driven solutions in global and dmomestic health. My work focuses on building data pipelines, and translating complex data into clear decision-ready narratives using SQL, PowerBI Python and modern data work flows. I am an expert at improving data work flows with scale, speed and reliability in high stakes environments. 
+I am a data analytics leader with 14+ of experience delivering insight driven solutions in global and domestic health. My work focuses on building data pipelines, and translating complex data into clear decision-ready narratives using SQL, PowerBI, Python, R and modern data work flows. I am an expert at improving data work flows with scale, speed and reliability in high stakes environments. 
 
 
 ## Featured Projects
