@@ -21,8 +21,10 @@ I am a data analytics leader with 14+ of experience delivering insight driven so
 
 Sample scripts in SAS, R, SQL & Python
 
-### Skills
+<br>  
+
+## Skills
 ***Data Tools:*** SQL, Python, R, PowerBI, Snowflake, BigQuery, more  
 ***Data Engineering:*** ETL pipelines, data quality workflows  
-***Visualization & Reporting*** Executive dashboards, reports, executive presentations   
+***Visualization & Reporting:*** Executive dashboards, executive presentations, pivot tables, data storytelling
 
